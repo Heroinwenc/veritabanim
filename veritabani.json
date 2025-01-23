@@ -1,4 +1,6 @@
 [
-    { "Ad": "Ahmet", "Soyad": "Yılmaz" },
-    { "Ad": "Mehmet", "Soyad": "Demir" }
+    { 
+        "BilgisayarDurumu": "Açık", 
+        "EkranDurumu": "Açık" 
+    }
 ]
